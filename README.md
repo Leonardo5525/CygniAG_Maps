@@ -21,28 +21,28 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 ## Project Setup
 
 1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/Leonardo5525/CygniAG_Maps.git
-   cd CygniAG_Maps
-   ```
-
-```Instalar dependências
+```bash
+git clone https://github.com/Leonardo5525/CygniAG_Maps.git
+cd CygniAG_Maps
+```
+2. **Instalar dependências**
+```
 npm install
 ```
 
-### Compilar e rodar projeto
+3. **Compilar e rodar projeto**
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+4. **Compile and Minify for Production**
 
 ```sh
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+5. **Lint with [ESLint](https://eslint.org/)**
 
 ```sh
 npm run lint
